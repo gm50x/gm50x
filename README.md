@@ -23,7 +23,7 @@ ________________________________________________________________________________
 - .NET
 - - Core+ :heart:
 - - Framework :broken_heart:
-- GIT :heart:
+- GIT :octocat:
 - Docker :heart::heart::heart:
 - Databases
 - - Postgres :heart:

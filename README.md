@@ -14,40 +14,23 @@ ________________________________________________________________________________
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gm50x&hide=issues&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm50x&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/emersonnobrega/github-readme-stats)
 __________________________________________________________________________________________________________________________
-### :gift: Skills in the package
-- Node
-- - Javascript :heart:
-- - Typescript :heart:
-- - Express :heart:
-- - Nest :heart:
-- .NET
-- - Core+ :heart:
-- - Framework :broken_heart:
-- GIT :octocat:
-- Docker :heart::heart::heart:
-- Databases
-- - Postgres :heart:
-- - MySql :heart:
-- - Mongo :heart:
-- - Sql Server :heart:
-- - Oracle :broken_heart:
-- Angular
-- HTML5
-- CSS3
+### :package: Skills in the package
+
+| Languages | BACK | FRONT | Databases | Tests | Others | Cloud |
+| --- | --- | --- | --- | --- | --- | --- |
+| C# :heart: | .NET Core :heart: | Angular :heart: | Postgres :heart: | XUnit :heart: | Git :heart: | AWS Lambda |
+| Javascript :heart: | .NET 5 :heart: | HTML5 | MySql :heart: | Mocha :heart: | Docker :heart: | AWS Beanstalk :heart: |
+| Typescript :heart: | Node :heart: | CSS3 | Mongo :heart: | Jest :heart: | Linux :heart:  | |
+| PHP | Nest :heart: | React | Oracle | | Windows :heart: | |
+| Python | Express :heart: | Web Components | Sql Server | | WSL :heart: | |
 __________________________________________________________________________________________________________________________
 ### ⚡ Fun facts:
-- Npm or Yarn?
-- - Npm!
-- .NET or Node?
-- - Depends on the project!
-- Would you break a monolith into microservices?
-- - Depends, does this monolith work well?
-- Graduated?
-- - Computer Science
-- PS, Nintendo, Xbox, PC?
-- - It's all about the games.
-- Dark or White IDE?
-- - Real programmers come from the dark side!
+- Npm or Yarn? -> npm!
+- .NET or Node? -> Depends on the project!
+- Would you break a monolith into microservices? -> Depends, does this monolith work well?
+- Graduated? -> Yes, Computer Science.
+- PS, Nintendo, Xbox, PC? -> It's all about the games.
+- Dark or White IDE? -> Real programmers come from the dark side!
 - Miscelanea? -> Many!!!
 - - I have been an ESL teacher in the past and it was really awesome. 
 - - I have worked in public transportation. 

@@ -24,7 +24,7 @@ ________________________________________________________________________________
 | PHP | Nest :heart: | React | Oracle | | Windows :heart: | |
 | Python | Express :heart: | Web Components | Sql Server | | WSL :heart: | |
 __________________________________________________________________________________________________________________________
-### ⚡ Fun facts:
+### ⚡ Fun facts
 - Npm or Yarn? -> npm!
 - .NET or Node? -> Depends on the project!
 - Would you break a monolith into microservices? -> Depends, does this monolith work well?

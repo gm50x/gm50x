@@ -23,7 +23,7 @@ ________________________________________________________________________________
 - .NET
 - - Core+ :heart:
 - - Framework :broken_heart:
-- GIT
+- GIT :heart:
 - Docker :heart::heart::heart:
 - Databases
 - - Postgres :heart:
@@ -45,7 +45,9 @@ ________________________________________________________________________________
 - Graduated?
 - - Computer Science
 - PS, Nintendo, Xbox, PC?
-- - It's all about the games. 
+- - It's all about the games.
+- Dark or White IDE?
+- - Real programmers come from the dark side!
 - Miscelanea? -> Many!!!
 - - I have been an ESL teacher in the past and it was really awesome. 
 - - I have worked in public transportation. 

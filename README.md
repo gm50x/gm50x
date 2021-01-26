@@ -13,7 +13,7 @@ ________________________________________________________________________________
 | --- | --- | --- | --- | --- | --- | --- |
 | C# :heart: | .NET Core :heart: | Angular :heart: | Postgres :heart: | XUnit :heart: | Git :heart: | AWS Lambda |
 | Javascript :heart: | .NET 5 :heart: | HTML5 | MySql :heart: | Mocha :heart: | Docker :heart: | AWS Beanstalk :heart: |
-| Typescript :heart: | Node :heart: | CSS3 | Mongo :heart: | Jest :heart: | Linux :heart:  | |
+| Typescript :heart: | Node :heart: | CSS3 | Mongo :heart: | Jest :heart: | Linux :heart:  | Heroku :heart: |
 | PHP | Nest :heart: | React :heart: | Oracle | | Windows :heart: | |
 | Python | Express :heart: | Web Components :heart: | Sql Server | | WSL :heart: | |
 __________________________________________________________________________________________________________________________

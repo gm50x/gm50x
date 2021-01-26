@@ -3,13 +3,6 @@ I am a computer scientist and enthusiast. Oh, and a software engineer! I am a fu
 
 Welcome to my github, while you are here, why not take a look around?
 __________________________________________________________________________________________________________________________
-<!--
-### :sparkler: Top Repos (4now):
-- Cybertron
-- Dasil
-- Envoy
-__________________________________________________________________________________________________________________________
--->
 ### :trophy: Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gm50x&hide=issues&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gm50x&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/emersonnobrega/github-readme-stats)
@@ -22,7 +15,7 @@ ________________________________________________________________________________
 | Javascript :heart: | .NET 5 :heart: | HTML5 | MySql :heart: | Mocha :heart: | Docker :heart: | AWS Beanstalk :heart: |
 | Typescript :heart: | Node :heart: | CSS3 | Mongo :heart: | Jest :heart: | Linux :heart:  | |
 | PHP | Nest :heart: | React :heart: | Oracle | | Windows :heart: | |
-| Python | Express :heart: | Web Components | Sql Server | | WSL :heart: | |
+| Python | Express :heart: | Web Components :heart: | Sql Server | | WSL :heart: | |
 __________________________________________________________________________________________________________________________
 ### ⚡ Fun facts
 - Npm or Yarn? -> npm!
@@ -44,17 +37,3 @@ ________________________________________________________________________________
 - - I aspire to teach others how to program. :heart:
 __________________________________________________________________________________________________________________________
 ### 📫 How to reach me? [LinkedIn](https://linkedin.com/in/getuliomagela) is your best pick!
-
-<!--
-**gm50x/gm50x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

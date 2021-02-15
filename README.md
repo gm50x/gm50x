@@ -1,5 +1,5 @@
 ### Hi! I am NOT Goku! :stuck_out_tongue_winking_eye:
-I am a computer scientist and enthusiast. Oh, and a software engineer! I am a fullstack developer, but mainly working on the backend, thus so many back-end repositories and no front-ends at all. I am currently learning Flutter and Dart.
+I am a computer scientist and enthusiast. Oh, and a software engineer! I am a fullstack developer, but mainly working on the backend, thus so many backend repositories and no frontends at all. I am currently learning Flutter and Dart, these two seem promising, don't they?
 __________________________________________________________________________________________________________________________
 ### :trophy: Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gm50x&hide=issues&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
@@ -12,9 +12,12 @@ ________________________________________________________________________________
 | C# :heart: | .NET Core :heart: | Angular :heart: | Postgres :heart: | XUnit :heart: | Git :heart: | AWS Lambda |
 | Javascript :heart: | .NET 5 :heart: | HTML5 | MySql :heart: | Mocha :heart: | Docker :heart: | AWS Beanstalk :heart: |
 | Typescript :heart: | Node :heart: | CSS3 | Mongo :heart: | Jest :heart: | Linux :heart:  | Heroku :heart: |
-| PHP | Nest :heart: | React :heart: | Oracle | | Windows :heart: | |
-| Python | Express :heart: | Web Components :heart: | Sql Server | | WSL :heart: | |
-| Java | | Nuxt Vue :heart:| Firebase | | | |
+| PHP | Nest :heart: | React | Oracle | | Windows :heart: | |
+| Python | Express :heart: | Web Components | Sql Server | | WSL :heart: | |
+| Java | | Nuxt Vue | Firebase | | Scrum :heart: | |
+| Dart :exclamation: | | Flutter :exclamation: |  | | Kanban :heart: | |
+
+:exclamation: -> Learning
 __________________________________________________________________________________________________________________________
 ### ⚡ Fun facts
 - Npm or Yarn? -> npm!
